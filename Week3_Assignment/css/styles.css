@@ -1,0 +1,56 @@
+#R1 {
+  background-color: rgb(186,186,176);
+  height: 100px;
+  box-sizing: border-box;
+  border-top: black solid 5px;
+  border-bottom: black solid 5px;
+  margin-bottom: 0px;
+}
+
+#R2 {
+  text-align: left;
+  font-size: 32px;
+  color: black;
+  font-weight: bold;
+  padding-top: 10px;
+  margin-left: 10px;
+}
+
+#R3 {
+  border-radius: 0px;
+  box-sizing: border-box;
+}
+
+.Heading {
+  text-align: center;
+  font-size: 50px;
+  color: black;
+  font-weight: bold;
+}
+
+#R4 {
+  background-color: rgb(186, 186, 176);
+  margin: 50px 20px 0px 20px;
+  text-align: justify;
+  font-size: 24px;
+  padding: 20px 20px 20px 20px;
+}
+
+#L1 {
+  font-size: 38px;
+  margin-bottom: 5px;
+}
+
+#L2 {
+  margin-top: -30px;
+}
+
+li {
+  text-align: center;
+  font-size: 24px;
+  border-bottom: black solid 3px;
+}
+
+#L3 {
+  margin-top: -10px;
+}
